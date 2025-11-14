@@ -1,0 +1,38 @@
+
+h1{
+    font-size: xx-large;
+    font-weight: 1000;
+}
+
+
+.links{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+              
+              
+}
+
+
+
+
+.projects{
+    display: flex;
+    justify-content:space-evenly;
+              
+} 
+.div1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+.divfirst{
+    height: 100px;
+    width: 200px;
+    background-color: black;
+    border: 100px;
+    margin-left: 7rem;
+    margin-right: 7rem;
+}
+
